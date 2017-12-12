@@ -1,4 +1,4 @@
-import { SessionToken } from '@base63/identity-sdk-js/session'
+import { SessionToken } from '@base63/identity-sdk-js/session-token'
 
 import {
     Blog,

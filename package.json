@@ -34,6 +34,7 @@
   },
   "dependencies": {
     "@base63/common-js": "=0.2.2",
+    "@base63/identity-sdk-js": "=0.5.1",
     "raynor": "0.12.0"
   },
   "devDependencies": {
