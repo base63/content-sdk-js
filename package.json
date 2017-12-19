@@ -38,7 +38,7 @@
         "raynor": "0.12.0"
     },
     "devDependencies": {
-        "@base63/togemfury": "=0.0.1",
+        "@base63/togemfury": "=0.1.1",
         "@types/chai": "=4.0.4",
         "@types/istanbul": "=0.4.29",
         "@types/mocha": "=2.2.38",
