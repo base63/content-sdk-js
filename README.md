@@ -1,4 +1,4 @@
-# Common [![Build Status](https://travis-ci.org/base63/content-sdk-js.svg?branch=master)](https://travis-ci.org/base63/content-sdk-js) [![Coverage](https://codecov.io/gh/base63/content-sdk-js/branch/master/graph/badge.svg)](https://codecov.io/gh/base63/content-sdk-js)
+# Content SDK [![Build Status](https://travis-ci.org/base63/content-sdk-js.svg?branch=master)](https://travis-ci.org/base63/content-sdk-js) [![Coverage](https://codecov.io/gh/base63/content-sdk-js/branch/master/graph/badge.svg)](https://codecov.io/gh/base63/content-sdk-js)
 
 The SDK for the content service. This is meant to be used by both client side and server side code. Everything is isomorphic.
 
